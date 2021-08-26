@@ -1,0 +1,6 @@
+
+.icon-video:before { content: '\e800'; } /* '' */
+.icon-picture:before { content: '\e801'; } /* '' */
+.icon-book:before { content: '\e802'; } /* '' */
+.icon-mail:before { content: '\e803'; } /* '' */
+.icon-music:before { content: '\e804'; } /* '' */
